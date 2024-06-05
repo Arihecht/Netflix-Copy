@@ -10,8 +10,11 @@ This project was created to test my knowledge of:
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
-  * [Screenshots](#screenshots)
+  * Screenshot
 * [Credits](#credits)
 
 ## Installation
 There is nothing to install for this project. Simply visit this link: [Netflix Copy](https://arihecht.github.io/Netflix-Copy/).
+
+## Usage
+This is a static webpage. The webpage will look like this: ![Screenshot of Netflix Copy webpage.](https://imgur.com/6r60wA1)
