@@ -14,4 +14,4 @@ This project was created to test my knowledge of:
 * [Credits](#credits)
 
 ## Installation
-There is nothing to install for this project. Simply visit this link: [Netflix Copy]([https://pages.github.com/](https://arihecht.github.io/Netflix-Copy/).
+There is nothing to install for this project. Simply visit this link: [GitHub Pages](https://pages.github.com/).
