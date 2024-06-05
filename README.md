@@ -17,4 +17,4 @@ This project was created to test my knowledge of:
 There is nothing to install for this project. Simply visit this link: [Netflix Copy](https://arihecht.github.io/Netflix-Copy/).
 
 ## Usage
-This is a static webpage. The webpage will look like this: ![Screenshot of Netflix Copy webpage.](https://imgur.com/6r60wA1)
+This is a static webpage. The webpage will look like this: ![Screenshot of Netflix Copy Webpage](https://imgur.com/6r60wA1)
