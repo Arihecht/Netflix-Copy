@@ -18,3 +18,6 @@ There is nothing to install for this project. Simply visit this link: [Netflix C
 
 ## Usage
 This is a static webpage. The webpage will look like this: ![Screenshot of Netflix Copy Webpage](https://i.imgur.com/6r60wA1.png)
+
+## Credits
+[Ari Hecht](https://github.com/Arihecht)
