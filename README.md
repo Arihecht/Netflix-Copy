@@ -7,3 +7,8 @@ This project was created to test my knowledge of:
 1. CSS
 1. SCSS
 
+## Table of Contents
+* [Installation](#installation)
+* [Usage](#usage)
+  * [Screenshots](#screenshots)
+* [Credits](#credits)
