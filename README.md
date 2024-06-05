@@ -12,3 +12,6 @@ This project was created to test my knowledge of:
 * [Usage](#usage)
   * [Screenshots](#screenshots)
 * [Credits](#credits)
+
+## Installation
+There is nothing to install for this project. Simply visit this link: [Netflix Copy]([https://pages.github.com/](https://arihecht.github.io/Netflix-Copy/).
